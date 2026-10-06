@@ -1,6 +1,4 @@
- should clearly explain **what bugs you found, what you fixed, why you fixed them, what you didn't fix, and how AI was used**.
 
-Here is a ready-to-use version based on the 5 fixes you actually made:
 
 # Task Tracker – Fix Notes
 
@@ -85,4 +83,3 @@ This ensures archived and status filters apply to every
 search result.
 ```
 
-That will match the assignment's requirement and give you something concrete to explain in the interview.
