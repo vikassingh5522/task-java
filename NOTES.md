@@ -51,9 +51,6 @@ task-tracker/
 ├── README.md          ← original assignment README
 └── NOTES.md           ← YOUR new file
 ```
-
-### Also, your handwritten notes should cover the bugs
-
 For each of the 5 fixes, write:
 
 ```text
